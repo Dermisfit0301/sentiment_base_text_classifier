@@ -1,5 +1,6 @@
 # sentiment_base_text_classifier
-This has been created by a fresher 
+Words from the writer: This has been created by a fresher who is doing this for the first time so feedback is appreciated. 
+
 
 Sentiment Analysis Project Documentation
 Project Overview
@@ -35,5 +36,3 @@ HTML : Basic HTML is used to create a simple user interface for entering text sn
 
 Backend Integration: The Flask application integrates the saved Random Forest model for sentiment prediction.
 
-Conclusion
-This sentiment analysis project demonstrates the journey from conventional ML models to complex ANN and ensemble learning methods. Despite achieving an accuracy of 81%, it is essential to recognize that model performance varies based on factors like dataset quality and feature engineering. In addition, creating a user-friendly application allows users to easily experience the model's predictions, making it accessible and practical. This project showcases the power of machine learning in text analysis and provides a foundation for further improvements and applications.
