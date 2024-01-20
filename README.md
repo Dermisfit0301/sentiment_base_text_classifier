@@ -1,4 +1,4 @@
-# sentiment_base_text_classifier
+# Hearreview_MVP_sentiment_base_text_classifier
 Words from the writer: This repository contains the soul of Hearreview which is classifying statements based on the sentiments they contain. It is the first step in building hearreview and the other steps that including a text summarizer and the dashboard with analytics will be built later as it is outside the scope of the project. The basic prototype is here in this repository which classifies the sentiments using NLP techniques and a classifier. 
 This repository has the dataset, the code files, and the pdf files that explain the product. 
 
